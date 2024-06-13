@@ -131,6 +131,3 @@ if __name__ == "__main__":
 
             file.write(json.dumps(record) + '\n')
 
-            # increment the index
-            index += 1
-
